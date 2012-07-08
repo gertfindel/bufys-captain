@@ -1,6 +1,6 @@
 <?php
 	/*
-	*	BUFFY Gift Recommendation Engine
+	*	BUFYS Gift Recommendation Engine
 	*	Team Avengers: July 2012
 	*/
 	session_start();

@@ -28,11 +28,10 @@
 
 </head>
   <body>
-    <div class="container">
       <nav class="navbar">
         <div class="navbar-inner">
             <div class="container">
-                <a href="/" class="brand">Bufys-Captain</a>
+                <a href="/" class="brand"><img src="i/logo.png"></a>
                     <ul class="nav">
                         <li class="active"><a href="/">Home</a></li>
                         <li><a href="http://acid.cl">Acid Labs</a></li>
@@ -41,3 +40,4 @@
         </div>
       </nav>
       
+    <div class="container">

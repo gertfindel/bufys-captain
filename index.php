@@ -1,6 +1,6 @@
 <?php
 	/*
-	*	BUFFY Gift Recommendation Engine
+	*	BUFYS Gift Recommendation Engine
 	*	Team Avengers: July 2012
 	*/
 
@@ -108,9 +108,14 @@
 				$iFriendID = $_GET['fid'];
 				$cFBFriendInterests = $cFacebook->api("/$iFriendID/interests");
 				$cFBFriendLikes = $cFacebook->api("/$iFriendID/likes");
-
+				
+				$control = 0;
 				foreach ($cFBFriendLikes['data'] as $aLike) {
 					$aInterests[] = $aLike['name'];
+					$control++;
+					if($control == 20){
+						break;
+					}
 				}
 				//-> 4. Send list to Google Marketplace
 				$aProducts = recommend($aInterests);
