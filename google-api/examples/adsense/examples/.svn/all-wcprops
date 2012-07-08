@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples
+END
+GenerateColumnChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateColumnChart.php
+END
+GetAllCustomChannelsForAdUnit.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllCustomChannelsForAdUnit.php
+END
+GetAllAdUnitsForCustomChannel.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllAdUnitsForCustomChannel.php
+END
+GetAllAdClients.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllAdClients.php
+END
+GetAllAdUnits.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllAdUnits.php
+END
+GenerateGeoChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateGeoChart.php
+END
+GetAllUrlChannels.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllUrlChannels.php
+END
+GetAllAccounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllAccounts.php
+END
+GenerateReportWithPaging.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateReportWithPaging.php
+END
+GeneratePieChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GeneratePieChart.php
+END
+GetAccountTree.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAccountTree.php
+END
+GetAllCustomChannels.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllCustomChannels.php
+END
+GetAllAdClientsForAccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GetAllAdClientsForAccount.php
+END
+GenerateTableChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateTableChart.php
+END
+GenerateLineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateLineChart.php
+END
+GenerateReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/avengers/!svn/ver/18/google-api/examples/adsense/examples/GenerateReport.php
+END

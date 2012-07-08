@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/avengers/!svn/ver/18/google-api/src/auth
+END
+apiOAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiOAuth.php
+END
+apiAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiAuth.php
+END
+apiAuthNone.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiAuthNone.php
+END
+apiOAuth2.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiOAuth2.php
+END
+apiSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiSigner.php
+END
+apiP12Signer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiP12Signer.php
+END
+apiVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiVerifier.php
+END
+apiLoginTicket.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiLoginTicket.php
+END
+apiPemVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/avengers/!svn/ver/18/google-api/src/auth/apiPemVerifier.php
+END

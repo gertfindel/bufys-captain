@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/avengers/!svn/ver/18/google-api/src/service
+END
+apiModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/avengers/!svn/ver/18/google-api/src/service/apiModel.php
+END
+apiService.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/avengers/!svn/ver/18/google-api/src/service/apiService.php
+END
+apiUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/avengers/!svn/ver/18/google-api/src/service/apiUtils.php
+END
+apiBatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/avengers/!svn/ver/18/google-api/src/service/apiBatch.php
+END
+apiMediaFileUpload.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/avengers/!svn/ver/18/google-api/src/service/apiMediaFileUpload.php
+END
+apiServiceResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/avengers/!svn/ver/18/google-api/src/service/apiServiceResource.php
+END
+apiServiceRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/avengers/!svn/ver/18/google-api/src/service/apiServiceRequest.php
+END
